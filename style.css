@@ -31,7 +31,8 @@ body{
 .container{
     display: grid;
     place-items: center;
-    background-image: url(img.avif);
+    background-image: url(background.jpg);
+    background-size: contain;
     height: 100vh;
 }
 
